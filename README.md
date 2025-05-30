@@ -19,6 +19,11 @@ In this Task, sales data was integrated from two distinct sources—Excel and CS
 INSIGHTS :
 The successful merging of Excel and CSV data sources into a uniform dashboard has not only streamlined reporting but also revealed meaningful patterns in customer behavior and sales distribution. The integration offered a holistic view across different business dimensions, allowing stakeholders to identify that over half of the revenue (54.75%) comes from retail customers, making them the primary market drivers. The even spread of regional sales emphasizes a balanced market presence, while the monthly trend charts can guide better forecasting and marketing alignment. Ultimately, this integrated data approach enhances decision-making by transforming disparate datasets into actionable business intelligence—exactly meeting the task objective of creating a single, insightful report from multiple sources.
 
+**NOTE**
+To explore the full functionality and interactive features of this project, please download the .pbix file from this repository and open it in Power BI Desktop.
+The PBIX file contains all visualizations and data transformations that cannot be fully viewed directly on GitHub.
+
+
 ## OUTPUT 
 
 ![Image](https://github.com/user-attachments/assets/260f6dd0-c178-48f2-9e2b-0fc75d8aaa6b)
