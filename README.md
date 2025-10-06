@@ -27,5 +27,5 @@ The PBIX file contains all visualizations and data transformations that cannot b
 
 ## OUTPUT 
 
-![Image](https://github.com/user-attachments/assets/260f6dd0-c178-48f2-9e2b-0fc75d8aaa6b)
+<img width="1483" height="900" alt="Image" src="https://github.com/user-attachments/assets/a99097b0-d015-4464-942c-0d660c59ba0c" />
 
